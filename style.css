@@ -1,0 +1,27 @@
+.body {
+    background-color: rgb(160, 158, 158);
+}
+
+.nav {
+    background-color: rgb(238, 25, 25);
+    border-bottom-left-radius: 2rem;
+    padding: 2rem 0.5rem;
+}
+
+.nav .nav-u {
+    text-align: right;
+}
+
+.nav .nav-l {
+    display: inline;
+    list-style: none;
+    padding: 1rem;
+    text-align: right;
+}
+
+
+}
+.nav .nav-ll {
+    color: white;
+    text-decoration: none;
+}
